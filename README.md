@@ -4,7 +4,7 @@ Finetune Python code dataset from Huggingface with Unsloth.AI via QLora Techniqu
 ## Finetuning
 The notebook to finetune llama3.2-1b is located in finetuning. Modify notebook from Unsloth.AI tutorial to fit custom dataset.
 
-The dataset to finetune llama3.2-1b can be found from huggingface: 
+The dataset to finetune llama3.2-1b can be found from huggingface: [dataset](https://huggingface.co/datasets/Vezora/Tested-143k-Python-Alpaca)
 
 You can also find the finetuned model at my huggingface space [huggingface](https://huggingface.co/weibb)
 
