@@ -18,6 +18,8 @@ The notebook to finetune llama3.2-1b is located in finetuning. Modify notebook f
 
 The dataset to finetune llama3.2-1b can be found from huggingface: [dataset](https://huggingface.co/datasets/Vezora/Tested-143k-Python-Alpaca)
 
+This dataset is one out of many from this amazing repo: [LLM dataset](https://github.com/mlabonne/llm-datasets), credit to **mlabonne**
+
 You can also find the finetuned model at my huggingface space [huggingface](https://huggingface.co/weibb)
 
 ![image](https://github.com/user-attachments/assets/592265f7-6f1a-495d-9414-2fa728aa598b)
