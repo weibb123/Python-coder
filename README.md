@@ -35,7 +35,11 @@ navaigate
 Simply modify your questions!
 ![image](https://github.com/user-attachments/assets/44dd27c0-1ce4-44bb-a961-d7c309d848d6)
 
-You can also experiment it in **test.ipynb**
+**Response**
+![image](https://github.com/user-attachments/assets/7eedb5ff-0896-4693-9a8b-28af0bab58be)
+
+
+You can also experiment it with langchain in **test.ipynb** for notebook playground style, for data folks.
 
 
 ## Ollama Usage
