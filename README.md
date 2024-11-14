@@ -2,9 +2,13 @@
 Finetune Python code dataset from Huggingface with Unsloth.AI via QLora Technique with Tesla T4 GPU. Free colab notebook!!
 
 ## Description
-Finetuned llama3.2:1b model using QLora technique
+Fine-tuned the Llama 3.2-1B model using the QLoRA technique on 143,327 Python examples sourced from Hugging Face, leveraging Unsloth.AI to achieve specialized expertise in Python query handling
 
-Built REST API using FastAPI to handle code queries with Langchain and Ollama
+Built a production-ready FastAPI service integrated with LangChain to manage and return Python code-related queries, improving response precision and reliability
+
+```git clone https://github.com/weibb123/Python-coder.git```
+
+```pip install requirements.txt```, dont forget to create a virtual environment!
 
 ## Whole Story
 Got a few minutes to read about LLM? Here is the blog post I wrote on Medium!! [Blog_to_update]()
