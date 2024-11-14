@@ -1,6 +1,8 @@
 # Python-coder
 Finetune Python code dataset from Huggingface with Unsloth.AI via QLora Technique with Tesla T4 GPU. Free colab notebook!!
 
+Credit to **Unsloth.AI**, DanielHan, amazing guy!! Making finetuning completely free
+
 ## Description
 Fine-tuned the Llama 3.2-1B model using the QLoRA technique on 143,327 Python examples sourced from Hugging Face, leveraging Unsloth.AI to achieve specialized expertise in Python query handling
 
