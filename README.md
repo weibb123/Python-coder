@@ -1,6 +1,14 @@
 # Python-coder
 Finetune Python code dataset from Huggingface with Unsloth.AI via QLora Technique with T4 GPU
 
+## Description
+Finetuned llama3.2:1b model using QLora technique
+
+Built REST API using FastAPI to handle code queries with Langchain and Ollama
+
+## Whole Story
+Got a few minutes to read about LLM? Here is the blog post I wrote on Medium!! [Blog]()
+
 ## Finetuning
 The notebook to finetune llama3.2-1b is located in finetuning. Modify notebook from Unsloth.AI tutorial to fit custom dataset.
 
