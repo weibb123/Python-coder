@@ -1,4 +1,7 @@
 # Python-coder
+
+## Whole Story
+Got a few minutes to read about LLM? Here is the blog post I wrote on Medium!! [Blog](https://medium.com/gitconnected/finetune-llama3-2-1b-for-free-with-unsloth-and-use-in-ollama-locally-c00d28e4db34)
 Finetune Python code dataset from Huggingface with Unsloth.AI via QLora Technique with Tesla T4 GPU. Free colab notebook!!
 
 Credit to **Unsloth.AI**, DanielHan, amazing guy!! Making finetuning completely free
@@ -12,8 +15,7 @@ Built a production-ready FastAPI service integrated with LangChain to manage and
 
 ```pip install requirements.txt```, dont forget to create a virtual environment!
 
-## Whole Story
-Got a few minutes to read about LLM? Here is the blog post I wrote on Medium!! [Blog_to_update]()
+
 
 ## Finetuning
 The notebook to finetune llama3.2-1b is located in finetuning. Modify notebook from Unsloth.AI tutorial to fit custom dataset.
