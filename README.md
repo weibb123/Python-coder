@@ -2,6 +2,7 @@
 
 ## Whole Story
 Got a few minutes to read about LLM? Here is the blog post I wrote on Medium!! [Blog](https://medium.com/gitconnected/finetune-llama3-2-1b-for-free-with-unsloth-and-use-in-ollama-locally-c00d28e4db34)
+
 Finetune Python code dataset from Huggingface with Unsloth.AI via QLora Technique with Tesla T4 GPU. Free colab notebook!!
 
 Credit to **Unsloth.AI**, DanielHan, amazing guy!! Making finetuning completely free
